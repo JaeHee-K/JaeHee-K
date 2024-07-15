@@ -1,6 +1,6 @@
 ## Kim Jae Hee
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHee-K&show_icons=true&theme=merko)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xcv20123)](https://solved.ac/xcv20123/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHee-K&show_icons=true&theme=radical)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xcv20123)](https://solved.ac/xcv20123/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeHee-K&count_bg=%233A6DE5&title_bg=%23555555&icon=&icon_color=%238FC8FF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
